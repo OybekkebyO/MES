@@ -1,0 +1,4 @@
+[13-Jul-2021 11:16:02 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/proshopu/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/proshopu/public_html/routes/web.php on line 16
